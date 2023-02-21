@@ -1,8 +1,0 @@
-.me{
-    margin-top: 40px;
-    margin-left: 250px;
-    grid-template-columns: repeat(3, 1fr);
-    display: grid;
-    grid-gap: 48px 40px;
-    margin-right: 60px;
-}
