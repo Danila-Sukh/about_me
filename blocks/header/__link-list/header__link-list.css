@@ -1,0 +1,5 @@
+.header__link-list{
+    flex-direction: row;
+    text-align: center;
+    border-bottom-style: double;
+}

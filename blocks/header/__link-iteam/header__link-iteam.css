@@ -1,0 +1,13 @@
+.header__link-iteam {
+    margin-right: 155px;
+    color: black;
+    text-decoration: none;
+    font-family: 'Gilroy-Bold';
+    font-size: 20px;
+    line-height: 22px;
+    margin-bottom: 32px;
+}
+
+.header__link-iteam:last-of-type {
+    margin: 0px;
+}
